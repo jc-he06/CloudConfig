@@ -7,3 +7,14 @@ management:
     web:
       exposure:
         include: "*"
+        
+        
+spring:
+  application:
+    name: Test-User
+
+server:
+  port: 0
+
+user:
+  name: Chris-He
