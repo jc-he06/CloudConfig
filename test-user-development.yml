@@ -11,7 +11,7 @@ management:
         
 spring:
   application:
-    name: Test-User
+    name: movie-store
 
 server:
   port: 0
