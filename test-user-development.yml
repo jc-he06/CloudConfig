@@ -6,5 +6,4 @@ server:
   port: 0
 
 user:
-  name: ChrisHe
   role: Trainee
